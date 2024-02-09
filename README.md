@@ -2,7 +2,7 @@
 
 Welcome to my repository that covers the fundamental concepts of Object Oriented Programming (OOP) implemented in C++. 🎉
 
-![OOP Concept GIF](https://giphy.com/gifs/deal-with-it-computer-sunglasses-10FwycrnAkpshW)
+![OOP Concept GIF]https://www.flaticon.com/free-icon/comic_9261774?related_id=9261774&origin=search
 
 ## Overview
 
